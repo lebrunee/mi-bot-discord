@@ -1,0 +1,6 @@
+discord.py==2.3.2
+groq
+yt-dlp
+python-dotenv
+PyNaCl
+aiohttp
