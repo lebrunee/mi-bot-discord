@@ -4,3 +4,5 @@ yt-dlp
 python-dotenv
 PyNaCl
 aiohttp
+spotipy
+spotdl
